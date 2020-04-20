@@ -14,6 +14,7 @@
         <module name="eurekaserverbase" />
         <module name="eurekaserverconfig" />
         <module name="eurekaserverzuul" />
+        <module name="HelloApi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

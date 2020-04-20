@@ -17,6 +17,7 @@
         <module>eureka-server-config</module>
         <module>eureka-client-config</module>
         <module>eureka-client-bus-amqp</module>
+        <module>HelloApi</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -33,7 +34,11 @@
 
 
     <dependencies>
-
+        <dependency>
+            <groupId>com.small.rqspringcloud.d</groupId>
+            <artifactId>HelloApi</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <dependencyManagement>

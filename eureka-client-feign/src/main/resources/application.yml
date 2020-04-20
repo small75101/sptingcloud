@@ -1,7 +1,7 @@
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://172.17.190.104:2000/eureka/
+      defaultZone: http://localhost:2000/eureka/
 server:
   port: 2005
 spring:
