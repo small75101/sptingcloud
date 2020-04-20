@@ -1,7 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d27df5ad-993a-4c44-a0fe-1cb2e02ffcd0" name="Default Changelist" comment="" />
+    <list default="true" id="d27df5ad-993a-4c44-a0fe-1cb2e02ffcd0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/eureka-client-base/target/classes/META-INF/eurekaclientbase.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-base/target/classes/application-test1.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-base/target/classes/application-test2.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-base/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-base/target/classes/com/small/rqspringcloudd/client/EurekaClientBaseApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-base/target/classes/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-base/target/classes/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-base/target/eureka-client-base-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-base/target/eureka-client-base-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-base/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-base/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-base/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-base/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-bus-amqp/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-bus-amqp/target/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-bus-amqp/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-bus-amqp/target/classes/bootstrap-simple.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-bus-amqp/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-bus-amqp/target/classes/com/small/rqspringcloudd/EurekaClientBusAmqpApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-bus-amqp/target/eureka-client-bus-amqp-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-bus-amqp/target/eureka-client-bus-amqp-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-bus-amqp/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-bus-amqp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-bus-amqp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-bus-amqp/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-config/target/classes/bootstrap-simple.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-config/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-config/target/classes/com/small/rqspringclouddd/EurekaClientConfigApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-feign/target/classes/META-INF/eurekaclientfeign.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-feign/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-feign/target/classes/com/small/rqspringcloudd/EurekaClientFeignApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-feign/target/classes/com/small/rqspringcloudd/controller/HiController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-feign/target/classes/com/small/rqspringcloudd/rule/MyIPRandomRule$LocalHost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-feign/target/classes/com/small/rqspringcloudd/rule/MyIPRandomRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-feign/target/classes/com/small/rqspringcloudd/service/Hi2Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-feign/target/classes/com/small/rqspringcloudd/service/HiService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-feign/target/classes/com/small/rqspringcloudd/service/callback/Hi2ServiceCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-feign/target/classes/com/small/rqspringcloudd/service/callback/HiServiceCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-ribbon/target/classes/META-INF/eurekaclientribbon.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-ribbon/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-ribbon/target/classes/com/small/rqspringcloudd/EurekaClientRibbonApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-ribbon/target/classes/com/small/rqspringcloudd/controller/HelloControler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-ribbon/target/classes/com/small/rqspringcloudd/service/HelloService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-ribbon/target/eureka-client-ribbon-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-ribbon/target/eureka-client-ribbon-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-ribbon/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-ribbon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-ribbon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client-ribbon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-base/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-base/target/classes/com/small/rqspringcloudd/EurekaServerBaseApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-base/target/classes/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-base/target/eureka-server-base-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-base/target/eureka-server-base-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-base/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-base/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-base/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-config/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-config/target/classes/com/small/rqspringcoundd/EurekaServerConfigApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-config/target/eureka-server-config-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-config/target/eureka-server-config-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-config/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-config/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-config/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-zuul/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-zuul/target/classes/com/small/rqspringcloudd/EurekaServerZuulApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server-zuul/target/classes/com/small/rqspringcloudd/filter/MyFilter.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/eureka-server-base/target/" />
@@ -39,7 +107,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-540">
+            <state relative-caret-position="-2020">
               <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
@@ -68,6 +136,9 @@
       <replace>eurekaclientribbon</replace>
       <replace>localhost</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -151,7 +222,38 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="eureka-client-base" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="eureka-client-bus-amqp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-client-bus-amqp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-client-config" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-client-config" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-client-feign" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-client-feign" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-client-ribbon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-client-ribbon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
@@ -161,6 +263,33 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="eureka-server-base" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-server-config" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-server-config" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-server-zuul" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-server-zuul" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rqspringcloudd" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rqspringcloudd" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -174,6 +303,7 @@
     <option name="width" value="960" />
     <option name="height" value="519" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="true" />
@@ -389,18 +519,17 @@
       <workItem from="1586846363564" duration="815000" />
       <workItem from="1586847212025" duration="9000" />
       <workItem from="1586931338821" duration="203000" />
-      <workItem from="1587371650785" duration="334000" />
+      <workItem from="1587371650785" duration="722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52727000" />
+    <option name="totallyTimeSpent" value="53115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36620858" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36620858" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -408,7 +537,7 @@
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.71463215" weight="0.58287793" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.71463215" visible="true" weight="0.5821168" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -424,7 +553,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.47534359" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.47534359" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="BPMNPalette" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.32983023" />
@@ -776,7 +905,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-540">
+        <state relative-caret-position="-2020">
           <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
