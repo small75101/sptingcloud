@@ -1,0 +1,3 @@
+com\small\rqspringcloudd\controller\HelloControler.class
+com\small\rqspringcloudd\service\HelloService.class
+com\small\rqspringcloudd\EurekaClientRibbonApplication.class

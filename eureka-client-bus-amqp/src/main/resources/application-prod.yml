@@ -1,0 +1,12 @@
+server:
+  port: 2010
+spring:
+  rabbitmq:
+    host: 172.17.190.104
+    port: 5672
+    username: guest
+    password: guest
+###############取消/bus/refresh权限限制##################
+management:
+  security:
+    enabled : false
